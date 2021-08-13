@@ -1,5 +1,4 @@
 /* GENERAL */
-
 *
 {
     margin: 0;
@@ -94,7 +93,6 @@ header nav ul li a
 }
 
 /* MAIN IMAGE */
-
 #main-image
 {
     height: 580px;
@@ -127,7 +125,6 @@ header nav ul li a
 }
 
 /* STEPS */
-
 #steps ul
 {
     margin: 80px 0;
@@ -139,7 +136,6 @@ header nav ul li a
     padding-top: 140px;
     text-align: center;
     margin-right: 10px;
-    
 }
 #steps h4
 {
@@ -164,10 +160,7 @@ header nav ul li a
     background: url('images/steps-icon-3.png') no-repeat top center;
 }
 
-
 /* POSSIBILITIES */
-
-
 #possibilities
 {
     background-color: #efefef;
@@ -220,10 +213,7 @@ article h4
     background-color: #02b8dd;
 }
 
-
-
 /* CONTACT */
-
 #contact
 {
     padding: 60px 0;
@@ -273,7 +263,6 @@ input[type="text"]
 }
 
 /* FOOTER */
-
 footer
 {
     height: 260px;
@@ -292,44 +281,3 @@ footer h1
     padding-top: 30px;
     color: #777;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
